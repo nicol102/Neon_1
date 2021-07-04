@@ -50,3 +50,7 @@ Modelos
 ![image](https://user-images.githubusercontent.com/74978653/124397290-77c5b800-dce5-11eb-93de-6ada136d3f0c.png)
 
 O intervalo de amostragem afeta muito o modelo cinemático incremental(devido à integração), quanto menor o intervalo de amostragem, mais próximo o modelo incremental se aproxima do diferencial.
+
+#### Graus de liberdade = quantidade de váriaveis independentes necessárias para descrever um posicionamento espacial e sua orientação
+
+#### Holonomia -> não ter restrições cinemáticas (bloqueio na direção em que o robô pode se movimentar)
