@@ -42,3 +42,11 @@ Existem duas maneiras de planejar o deslocamento do robô:
 
 ![image](https://user-images.githubusercontent.com/74978653/120084536-729e9900-c0a7-11eb-9f00-bb6ebc4353de.png)
 
+Modelo integral - modelo incremental
+
+![image](https://user-images.githubusercontent.com/74978653/124397258-4a790a00-dce5-11eb-9883-eadbe6501c17.png)
+
+Modelos
+![image](https://user-images.githubusercontent.com/74978653/124397290-77c5b800-dce5-11eb-93de-6ada136d3f0c.png)
+
+O intervalo de amostragem afeta muito o modelo cinemático incremental(devido à integração), quanto menor o intervalo de amostragem, mais próximo o modelo incremental se aproxima do diferencial.
